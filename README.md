@@ -3,6 +3,13 @@
 📌 Proje Açıklaması
 Bu proje, Netflix'in ana sayfasının responsive klonudur. HTML5, CSS3 ve temel JavaScript kullanılarak geliştirilmiştir. Netflix'in orijinal arayüzünün temel özelliklerini ve tasarımını taklit eder.
 
+Ekran Görüntüsü
+
+
+![Medya1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ccd9df8e-3e1c-4da2-903d-9c41e13b243a)
+
+
+
 ✨ Özellikler
 Tamamen Responsive Tasarım: Tüm cihaz boyutlarında uyumlu
 
@@ -63,10 +70,5 @@ Hızlı linkler
 
 
 
-Ekran Görüntüsü
-
-
-
-![Medya1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ccd9df8e-3e1c-4da2-903d-9c41e13b243a)
 
 

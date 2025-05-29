@@ -148,7 +148,7 @@ body {
 
 .info-area .secImage {
   position: relative;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 .info-area .secImage img {
